@@ -1,13 +1,21 @@
-body{
+body {
     background-color: beige;
     font-family: Tienne;
 }
 
+#container {
+    display: flex;
+}
 
-footer{
+.cartao {
+    margin: 1rem 1rem;
+}
+
+
+footer {
     background-color: black;
-    color:white;
-    position:fixed;
+    color: white;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 2rem;
