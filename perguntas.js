@@ -18,9 +18,20 @@ criaCartao(
 
 criaCartao(
     'Anfibios',
-'O que é metamorfose nos anfíbios?',
-'Transformação do girino aquático em adulto terrestre.'
+    'O que é metamorfose nos anfíbios?',
+    'Transformação do girino aquático em adulto terrestre.'
 
+)
 
+criaCartao(
+    'Anfíbios',
+    'Por que são chamados de bioindicadores?',
+    'Porque indicam se o ambiente está saudável ou poluído.'
+)
+
+criaCartao(
+    'Anfíbios',
+    'Quais os três grupos de anfíbios?',
+    'Anuros (sem cauda), Urodelos (com cauda), Ápodas (sem patas).'
 
 )
